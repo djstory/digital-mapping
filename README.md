@@ -1,1 +1,1 @@
-# digital-mapping
+# Digital Mapping Workshop
