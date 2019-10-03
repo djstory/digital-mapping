@@ -7,7 +7,7 @@
 * Bullet 2
   * Bullet 3
 
-![](images/layers.jpg =250x)
+<img src="images/layers.jpg" width="300">
 
 ## Why Might You Want to Map?
 
