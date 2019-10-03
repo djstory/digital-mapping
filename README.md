@@ -7,7 +7,9 @@
 * Bullet 2
   * Bullet 3
 
+<div style="text-align:center">
 <img src="images/layers.jpg" width="300">
+</div>
 
 ## Why Might You Want to Map?
 
