@@ -4,11 +4,7 @@ Welcome to the workshop. We're talking about digital mapping today. No experienc
 
 We'll be cover three straightforward questions: what is digital mapping?, why might you want to map?, and how can you get started?
 
-**But first, a map...**
-
-
-
-<iframe width="100%" height="520" frameborder="0" src="https://djstory.carto.com/builder/9559767b-a51c-4582-8822-e2e6c55101fe/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+**But first, [a map](https://djstory.carto.com/builder/9559767b-a51c-4582-8822-e2e6c55101fe/embed)...**
 
 
 
