@@ -2,10 +2,12 @@
 
 ## What is Digital Mapping?
 
-### Subpoint 1
+### Layers
 * Bullet 1
 * Bullet 2
   * Bullet 3
+
+![](images/layers.jpg)
 
 ## Why Might You Want to Map?
 
