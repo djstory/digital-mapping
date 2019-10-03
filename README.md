@@ -8,7 +8,7 @@ We'll be cover three straightforward questions: what is digital mapping?, why mi
 
 
 
-*map here*
+<iframe width="100%" height="520" frameborder="0" src="https://djstory.carto.com/builder/9559767b-a51c-4582-8822-e2e6c55101fe/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 
@@ -66,26 +66,51 @@ Digital maps are usually made up of one or more layers of spatial data (vector, 
 
 ## Why Might You Want to Map?
 
+### First things first: research questions, then methods, then tools!!!
+
+Methods change much less frequently than tools do...
 
 
 
-## This
+### Some Reasons to Map
 
-### Subpoint 1
-* Bullet 1
-* Bullet 2
-  * Bullet 3
-
-## How Can You Get Started?
-
-### Subpoint 1
-* Bullet 1
-* Bullet 2
-  * Bullet 3
+* To expose and explore geographic patterns in your data
+  * Clusters and gaps
+  * Changes over time
+* To juxtapose/overlay two or more datasets
+* To bring a map image into digital space (i.e. a scan of a historic map), a process called *georectification*
+* To present and share you research—on the web, in a talk, in print
+* Develop a skill that is in high demand both within academia and outsideAny one method has its affordances, and its limitsElection map example of how geographic representation distorts
 
 
-## Reading (Optional)
-* [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
+
+### Of course, all methods have their affordances *and their limits*
+
+
+
+
+
+## OK—Now How Can You Get Started?
+
+
+
+### Get Your Data Ready
+
+* For many of us, that means structuring data in a spreadsheet, like this for example
+  * If you have a large dataset you want to map, start with a meaningful subset of that data
+* Then load that structured data into a GIS tool—most tools will automatically apply a procedure known as *geocoding*, which assigns lattitude and longitude points to your place names
+* You might also go looking for other spatial data to compliment what you have, such as political boundaries, census stats, or transit routes
+* Alternatively, you might need to create your dataset right in the GIS tool, by plotting points, drawing lines, or outlining areas
+
+
+
+### Pick Your Tool
+
+* Desktop tools
+* Web-based tools
+* Tools for thinking about styling your map
+
+
 
 ## Workshop Materials
 
@@ -96,7 +121,19 @@ Digital maps are usually made up of one or more layers of spatial data (vector, 
 * [Activity 4](activity4.md): Publish with TEI Boilerplate; compare publishing platforms. 
 * [Activity 5](activity5.md): Publish with TEI Boilerplate; optional exercise that can be completed post-workshop. 
 
+
+
+## Further Resources
+
+- [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
+
+## 
+
+
+
 ## Contact
-* Michelle Dalmau, Head of Digital Collections Services, Indiana University Bloomington Libraries
-* Email: mdalmau@indiana.edu
-* Twitter: @mdalmau
+
+* Daniel Story, Digital Scholarship Librarian, University of California, Santa Cruz
+* Website: [digitalscholarship.ucsc.edu](http://digitalscholarship.ucsc.edu)
+* Email: [dstory@ucsc.edu](mailto:dstory@ucsc.edu) 
+* Twitter: @danieljstory
