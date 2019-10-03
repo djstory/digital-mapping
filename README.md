@@ -6,6 +6,8 @@ We'll be cover three straightforward questions: what is digital mapping?, why mi
 
 **But first, [a map](https://djstory.carto.com/builder/9559767b-a51c-4582-8822-e2e6c55101fe/embed)...**
 
+And [another](https://kepler.gl/demo/earthquakes){:target="_blank"}...
+
 
 
 ## What is Digital Mapping?
