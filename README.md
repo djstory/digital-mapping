@@ -8,7 +8,7 @@ We'll be cover three straightforward questions: what is digital mapping?, why mi
 
 **And [another](https://kepler.gl/demo/earthquakes)...**
 
-**And [another](https://www.nytimes.com/interactive/2017/06/22/upshot/Census-Time-Machine-Demographics-in-America.html)...**
+**And maybe [one more](https://www.nytimes.com/interactive/2017/06/22/upshot/Census-Time-Machine-Demographics-in-America.html)...**
 
 
 
